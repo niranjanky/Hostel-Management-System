@@ -1,0 +1,36 @@
+.header
+{
+	background-color: #dcedb6;
+	color: #3e4cc4;
+	margin-right: 50px;
+	margin-left: 50px;
+	height: 140px;
+	line-height: 140px;
+}
+.dashboard
+{
+	background-color: pink;
+	color: #000;
+	margin-right: 50px;
+	margin-left: 50px;
+	height: 140px;
+	font-size: 25px;
+}
+.table
+{
+	background-color: #53d635;
+	color: #fff;
+	margin-left: 1px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 20px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
